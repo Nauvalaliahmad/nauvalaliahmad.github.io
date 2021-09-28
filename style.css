@@ -1,18 +1,24 @@
 .jumbotron {
     padding-top: 6rem;
-    margin-left: 0;
+  margin-right: -2%;
     background-color: #b7cff8;
 }
 
 #projects {
     background-color:#b7cff8 ;
+ 
+    
+}
+
+#about {
+
 }
 
 section {
     padding-top: 5rem;
     background-color: #fff;
-}
+   
 body {
-    padding: auto;
+  
     background-color: rgb(255, 255, 255);
 }
